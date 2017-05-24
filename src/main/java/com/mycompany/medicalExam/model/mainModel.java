@@ -1,6 +1,6 @@
 package com.mycompany.medicalExam.model;
 
-public class mainModel extends Model
+public class mainModel 
 {
   String title;
   int SystemIndex;
