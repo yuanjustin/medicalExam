@@ -1,6 +1,6 @@
 package com.mycompany.medicalExam.model;
 
 public interface  Model{
-  void setSearch();
+  void refrsh(List<DetailModel> cardlist);
   void setSystemIndex();
 }
