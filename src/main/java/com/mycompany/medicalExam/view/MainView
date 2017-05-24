@@ -1,0 +1,6 @@
+package com.mycompany.medicalExam.view;
+
+public class MainView
+{
+  void refrshView(Model model){}
+}
