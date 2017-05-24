@@ -6,7 +6,7 @@ public class mainModel
   int SystemIndex;
   int MethodIndex;
   public int cardIndex;
-  void ini(){
+  mainModel(){
   //title index =1
     title="";
     SystemIndex=1;
