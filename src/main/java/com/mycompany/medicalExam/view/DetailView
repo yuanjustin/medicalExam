@@ -1,0 +1,6 @@
+package com.mycompany.medicalExam.view;
+
+public class DetailView
+{
+  refrshView(DetailMOdel model){}
+}
