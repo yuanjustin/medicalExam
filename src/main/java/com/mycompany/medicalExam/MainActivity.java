@@ -1,6 +1,5 @@
 package com.mycompany.medicalExam;
 
-import android.app.*;
 import android.os.*;
 import android.support.v7.widget.Toolbar;
 import android.support.design.widget.TabLayout;
